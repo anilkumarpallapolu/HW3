@@ -1,0 +1,7 @@
+classification_data
+road_data
+.DS_Store
+grader/__pycache__
+homework/__pycache__
+grader/datasets/__pycache__
+homework/datasets/__pycache__
